@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bcb5740066beed64081019e9fd01d3c3
+labels:
+- Animation
+- Architecture
+- Audio
+- Camera
+- Character
+- Effect
+- Follow
+- Ground
+- Prop
+- Road
+- Shake
+- Sky
+- Terrain
+- Vegetation
+- Vehicle
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
